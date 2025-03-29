@@ -36,7 +36,7 @@ python app.py
 - The generated logo will be displayed on the page.
 
 ## Screenshots
-![Generated Logo](screenshots/logo_generator.png)
+
 
 ## Requirements
 - Python 3.8+
